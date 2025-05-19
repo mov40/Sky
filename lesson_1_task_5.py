@@ -1,5 +1,5 @@
-def print_number(num):
-    print(num, end='')
+def print_number(NUM):
+    print(NUM, end='')
 
 
 print_number('8')
